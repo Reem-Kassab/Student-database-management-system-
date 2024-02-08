@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1706461917 source:c:\users\solo\desktop\student database management system\student database management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SDBAPP.h"
+
+1706644894 source:c:\users\solo\desktop\student database management system\student database management system\sdbapp.c
+	"SDBAPP.h"
+
+1706214601 c:\users\solo\desktop\student database management system\student database management system\sdbapp.h
+	<stdlib.h>
+	"SDB.h"
+
+1706570806 c:\users\solo\desktop\student database management system\student database management system\sdb.h
+	<stdio.h>
+	"platform_types.h"
+
+1706222677 c:\users\solo\desktop\student database management system\student database management system\platform_types.h
+
+1706649316 source:c:\users\solo\desktop\student database management system\student database management system\sdb.c
+	"SDB.h"
+
+1706461917 source:c:\users\eng amira\downloads\student database management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SDBAPP.h"
+
+1706214601 c:\users\eng amira\downloads\student database management system\sdbapp.h
+	<stdlib.h>
+	"SDB.h"
+
+1706713590 c:\users\eng amira\downloads\student database management system\sdb.h
+	<stdio.h>
+	"platform_types.h"
+
+1706222677 c:\users\eng amira\downloads\student database management system\platform_types.h
+
+1706713964 source:c:\users\eng amira\downloads\student database management system\sdbapp.c
+	"SDBAPP.h"
+
+1706712347 source:c:\users\eng amira\downloads\student database management system\sdb.c
+	"SDB.h"
+
+1706461917 source:d:\embedded system ieee\student database management system\student database management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SDBAPP.h"
+
+1706214601 d:\embedded system ieee\student database management system\student database management system\sdbapp.h
+	<stdlib.h>
+	"SDB.h"
+
+1706716928 d:\embedded system ieee\student database management system\student database management system\sdb.h
+	<stdio.h>
+	"platform_types.h"
+
+1706222677 d:\embedded system ieee\student database management system\student database management system\platform_types.h
+
